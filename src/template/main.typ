@@ -1,4 +1,4 @@
-#import "@preview/malos-book-style:1.0.0": book
+#import "@preview/malos-book-style:1.0.1": book
 
 #set text(lang: "en")
 

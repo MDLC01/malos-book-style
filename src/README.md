@@ -15,7 +15,7 @@ Below are the pages of an example document created using Malo's Book Style.
 After importing the appropriate version of the package, you can use Malo's Book Style as follows to reproduce the above example.
 
 ```typ
-#import "@preview/malos-book-style:1.0.0": book
+#import "@preview/malos-book-style:1.0.1": book
 
 #set text(lang: "en")
 

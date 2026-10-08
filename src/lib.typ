@@ -38,7 +38,7 @@
   // Make the digits slightly taller to better fit the uppercase letters used
   // for Roman numerals.
   // https://github.com/alerque/libertinus/blob/master/documentation/Features.md#cased-forms-case
-  show regex(`[IVXLCDM](\.[0-9])+`.text): set text(features: ("case",))
+  show regex(`[IVXLCDM]+(\.[0-9]+)+`.text): set text(features: ("case",))
 
   set heading(numbering: "I.1.")
 
